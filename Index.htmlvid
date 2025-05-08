@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PAJ Business Hub Videos</title>
+  <link rel="stylesheet" href="assets/css/style.css"/>
+</head>
+<body>
+  <header>
+    <img src="assets/images/logo.png" alt="PAJ Business Hub Logo" class="logo"/>
+    <h1>PAJ Business Hub</h1>
+    <p>Empowering Business Minds Across Africa</p>
+  </header>
+
+  <main>
+    <section class="video-section">
+      <h2>Featured Video</h2>
+      <video controls>
+        <source src="assets/videos/sample.mp4" type="video/mp4"/>
+        Your browser does not support the video tag.
+      </video>
+    </section>
+
+    <section class="cta">
+      <h3>Join Our Community</h3>
+      <p>Subscribe to our newsletter and stay updated with the latest business insights.</p>
+      <a href="mailto:officialpajbusinesshub@gmail.com" class="button">Contact Us</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 PAJ Business Hub. All rights reserved.</p>
+  </footer>
+</body>
+  </html>
